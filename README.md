@@ -21,9 +21,13 @@ gcc -Wall -Wextra -Werror -D BUFFER_SIZE=42 get_next_line.c get_next_line_utils.
 
 ## 📂 Estrutura do Projeto
 get_next_line/
+
 ├── get_next_line.c         # Função principal que implementa a lógica de leitura de linhas
+
 ├── get_next_line_utils.c   # Funções auxiliares para gestão de memória e strings
+
 ├── get_next_line.h         # Header file com protótipos e definições
+
 └── main.c                  # Arquivo principal de teste
 
 ## 🔧 Conceitos Importantes
