@@ -12,8 +12,11 @@ A função `get_next_line` permite:
 ## 🚀 Como Usar
 
 git clone [https://github.com/teu-usuario/get_next_line.git](https://github.com/pnovato/get_next_line)
+
 cd get_next_line
+
 gcc -Wall -Wextra -Werror -D BUFFER_SIZE=42 get_next_line.c get_next_line_utils.c main.c
+
 ./a.out
 
 ## 📂 Estrutura do Projeto
